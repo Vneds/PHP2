@@ -1,0 +1,16 @@
+{
+    "name": "asus/lab4",
+    "autoload": {
+        "psr-4": {
+            "app\\core\\": "core/",
+            "app\\" : "src/",
+            "app\\controller\\" : "controller/",
+            "app\\model\\" : "model/",
+            "app\\admin\\controller" : "admin/controller/"
+            
+
+            
+        }
+    },
+    "require": {}
+}
